@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-spanner/#history
 
+## [3.71.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-spanner-v3.71.0...google-cloud-spanner-v3.71.1) (2026-09-10)
+
+
+### Performance Improvements
+
+* **spanner:** optimize row popping in StreamedResultSet ([#18316](https://github.com/googleapis/google-cloud-python/issues/18316)) ([e66103d](https://github.com/googleapis/google-cloud-python/commit/e66103d450af97e8aa51319e1e814e075d3a89c7))
+
 ## [3.71.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-spanner-v3.70.0...google-cloud-spanner-v3.71.0) (2026-09-03)
 
 
